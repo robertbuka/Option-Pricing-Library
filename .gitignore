@@ -1,0 +1,9 @@
+.DS_Store
+xcuserdata/
+DerivedData/
+build/
+.Rhistory
+.venv/
+.idea/
+__pycache__/
+test_*.csv
